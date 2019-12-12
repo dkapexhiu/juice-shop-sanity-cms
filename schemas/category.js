@@ -32,6 +32,11 @@ export default {
           to: [{type: 'category'}]
         }
       ]
+    },
+    {
+      name: 'logo',
+      title: 'logo',
+      type: 'image'
     }
   ]
 }
