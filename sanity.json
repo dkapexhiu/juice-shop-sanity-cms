@@ -4,7 +4,7 @@
     "name": "Suko Shop Backend"
   },
   "api": {
-    "projectId": "6o5ffyfw",
+    "projectId": "",
     "dataset": "production"
   },
   "plugins": [
